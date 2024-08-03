@@ -1,6 +1,6 @@
 # HiDPI for Wayland on NixOS
 ## Overview
-This repository is here to store my NixOS configurations for using Wayland on HiDPI so I never have to re-learn how to keep my cursor size consistent across all apps XD.
+This repository is here to store my NixOS configurations for using Wayland on HiDPI displays so I never have to re-learn how to keep my cursor size consistent across all apps XD.
 
 You can add these settings into your custom NixOS configuration or try to import these modules directly into your home.nix/configuration.nix. 
 
